@@ -4,9 +4,8 @@
 The Blue Bank Online Payment App Landing Page is a project aimed at mastering Tailwind CSS while demonstrating the capabilities of the Blue Bank Online Payment App. The page is built using Vite.js, React, and Tailwind CSS, combining the power of these technologies to create a visually appealing and functional landing page.
 
 
-<img src="https://github.com/Eh1z/modern_bank_app/assets/111048723/e5a56746-557a-4d1a-b24e-42d93547b7f2" width="350" height="400">
-<img src="https://github.com/Eh1z/modern_bank_app/assets/111048723/be72cb57-0f40-421a-8f2f-8495e0586ad0" width="350" height="400">
-<img src="https://github.com/Eh1z/modern_bank_app/assets/111048723/a4ddedaa-b419-462d-af06-8ab1eb310696" width="350" height="400">
+<img src="https://github.com/Eh1z/modern_bank_app/assets/111048723/e5a56746-557a-4d1a-b24e-42d93547b7f2" width="500" height="400">
+<img src="https://github.com/Eh1z/modern_bank_app/assets/111048723/be72cb57-0f40-421a-8f2f-8495e0586ad0" width="500" height="400">
 
 
 
