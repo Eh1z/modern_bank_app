@@ -11,7 +11,6 @@ Landing page [link](https://blue-bank.netlify.app/).
 
 
 
-
 ## Features
 
 - **Modern Design:** The landing page features a modern design style that exudes simplicity, elegance, and a user-friendly experience.
